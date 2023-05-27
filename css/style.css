@@ -100,7 +100,7 @@ nav a:hover{
     padding: 10px;
 }
 .music-player audio {
-    width: 800px;
+    width: 600px;
     margin: 0 10px;
 }
 
@@ -133,10 +133,10 @@ nav a:hover{
 
 .image-collage {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 10px;
-    max-width: 800px;
-    margin: 0 auto; /* Added to center the image collage */
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 20px;
+    max-width: 700px;
+    margin: 0 auto; 
 }
 
 .image-collage img {
