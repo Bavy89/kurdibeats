@@ -213,6 +213,6 @@ nav a:hover{
   @media (max-width: 767px) {
     /* Styles for mobile devices */
     nav {
-      top: 20%;
+      top: 24%;
     }
   }
