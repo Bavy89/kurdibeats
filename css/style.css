@@ -210,4 +210,9 @@ nav a:hover{
     border-radius: 5px;
 }
 
-
+  @media (max-width: 767px) {
+    /* Styles for mobile devices */
+    nav {
+      top: 20%;
+    }
+  }
